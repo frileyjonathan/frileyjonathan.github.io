@@ -1,4 +1,4 @@
-# frileyjonathan.github.io
+## Example Github Page
 
 This is an example Github page for my CS155 class
 
